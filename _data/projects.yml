@@ -1,11 +1,7 @@
-- name: Mars Explorer
-  url: https://github.com/krtkush/MarsExplorer
-  tag: Android App
+- name: Micro Framework Skeleton
+  url: https://github.com/dridi-walid/micro-framework-skeleton
+  tag: PHP Micro-Framework Composer
 
-- name: Linear Timer
-  url: https://github.com/krtkush/LinearTimer
-  tag: Android Library
-
-- name: Trail
-  url: https://github.com/krtkush/Trail
-  tag: Android Library
+- name: Behat Report Formatter Extension
+  url: https://github.com/dridi-walid/behat-report-formatter-extension
+  tag: Behat Report Html Formatter
