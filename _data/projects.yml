@@ -1,7 +1,11 @@
 - name: Micro Framework Skeleton
-  url: https://github.com/dridi-walid/micro-framework-skeleton
+  url: https://packagist.org/packages/dridi-walid/micro-framework-skeleton
   tag: PHP Micro-Framework Composer
 
-- name: Behat Report Formatter Extension
-  url: https://github.com/dridi-walid/behat-report-formatter-extension
-  tag: Behat Report Html Formatter
+- name: Behat Html Formatter
+  url: https://packagist.org/packages/dridi-walid/behat-html-formatter
+  tag: Behat Behat-Extension Behat-Formatter
+  
+- name: Behat PHP_CONFIG Context
+  url: https://packagist.org/packages/dridi-walid/behat-php_config-context
+  tag: Behat Behat-Context

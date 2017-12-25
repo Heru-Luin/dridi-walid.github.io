@@ -5,4 +5,6 @@ title: Submit PHP Project to packagist.org and Broadcast it via Composer
 tags: [php, packagist, Composer]
 ---
 
-![Packagist.org](http://connect.adfab.fr/wp-content/uploads/2015/06/packagist-logo.png)
+<p align="center">
+  <img alt="Loading" src="https://cdn2.iconfinder.com/data/icons/free-mobile-icon-kit/64/Loading_throbber.png">
+</p>
