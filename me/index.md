@@ -19,16 +19,6 @@ Skills:
 
 You can reach me on [Github](http://github.com/dridi-walid){:target="_blank"}
 
-Follow me on twitter [@dridi_w](https://twitter.com/dridi_w){:target="_blank"}
-
-Join my meetup on [Jenkins-CI-CD](https://www.meetup.com/fr-FR/Jenkins-CI-CD){:target="_blank"}
-
-Subscribe to my courses [Udemy](https://www.udemy.com/user/dridiwalid2){:target="_blank"}
-
-Watch my weekly tips [Youtube](https://www.youtube.com/channel/UCyLKGTgJ09tb-XkgA-QXbzw){:target="_blank"}
-
-Find my slides on [Slideshare](https://fr.slideshare.net/dridiwalid5){:target="_blank"}
-
 <br />
 
 Certifications:
